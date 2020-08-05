@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "93a1205df6945dacf9d711733495a21e"
+build_time: [1596629607, 328643000]
+inputs:
+  "/Users/mac/Documents/Bhupendra/AVVideoPlayerDemo/AVVideoPlayerDemo/PlayerCell.swift": [1596619277, 0]
+  "/Users/mac/Documents/Bhupendra/AVVideoPlayerDemo/AVVideoPlayerDemo/ViewController.swift": [1596629607, 0]
+  "/Users/mac/Documents/Bhupendra/AVVideoPlayerDemo/AVVideoPlayerDemo/AppDelegate.swift": [1596611789, 0]

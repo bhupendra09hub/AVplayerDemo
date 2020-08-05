@@ -13,6 +13,7 @@
 		04E84AE524DA944D002C73AD /* AVVideoPlayerDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 04E84AE324DA944D002C73AD /* AVVideoPlayerDemo.xcdatamodeld */; };
 		04E84AE724DA944E002C73AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E84AE624DA944E002C73AD /* Assets.xcassets */; };
 		04E84AEA24DA944E002C73AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E84AE824DA944E002C73AD /* LaunchScreen.storyboard */; };
+		04E84AF224DA9611002C73AD /* PlayerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E84AF124DA9611002C73AD /* PlayerCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		04E84AE624DA944E002C73AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04E84AE924DA944E002C73AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04E84AEB24DA944E002C73AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04E84AF124DA9611002C73AD /* PlayerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				04E84ADC24DA944D002C73AD /* AppDelegate.swift */,
 				04E84ADE24DA944D002C73AD /* ViewController.swift */,
+				04E84AF124DA9611002C73AD /* PlayerCell.swift */,
 				04E84AE024DA944D002C73AD /* Main.storyboard */,
 				04E84AE624DA944E002C73AD /* Assets.xcassets */,
 				04E84AE824DA944E002C73AD /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04E84AF224DA9611002C73AD /* PlayerCell.swift in Sources */,
 				04E84ADF24DA944D002C73AD /* ViewController.swift in Sources */,
 				04E84ADD24DA944D002C73AD /* AppDelegate.swift in Sources */,
 				04E84AE524DA944D002C73AD /* AVVideoPlayerDemo.xcdatamodeld in Sources */,
